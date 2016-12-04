@@ -1,0 +1,58 @@
+style.css
+body {
+    background-color: grey;
+    text-align: center;
+}
+
+img{
+	width: 100%;
+}
+
+.main-hadding{
+	margin-bottom: 25px;
+    margin-top: 25px;
+    color: red;
+    letter-spacing: 4px;
+}
+
+
+
+.blurbs{
+	margin-bottom: 25px;
+    margin-top: 25px;
+    color: red;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.professional{
+	margin-bottom: 25px;
+    margin-top: 25px;
+    color: red;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.academic{
+	margin-bottom: 25px;
+    margin-top: 25px;
+    color: red;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.interests{
+	margin-bottom: 25px;
+    margin-top: 25px;
+    color: red;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.level-of-exp{
+	margin-bottom: 25px;
+    margin-top: 25px;
+    color: red;
+    letter-spacing: 4px;
+    text-align: center;
+}
